@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1706217229 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\ogrod\main.cpp
+	"ogrod.h"
+
+1706217428 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\ogrod\ogrod.h
+	"roslina.h"
+
+1706217135 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\ogrod\roslina.h
+	<iostream>
+

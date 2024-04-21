@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700815446 source:z:\jk\programowanie obiektowe\lab8.2\main.cpp
+	"figure.h"
+
+1700815512 z:\jk\programowanie obiektowe\lab8.2\figure.h
+	<iostream>
+

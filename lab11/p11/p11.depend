@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702629834 source:z:\jk\programowanie obiektowe\lab11\p11\main.cpp
+	"choinka.h"
+
+1702629135 z:\jk\programowanie obiektowe\lab11\p11\ozdoba.h
+	<iostream>
+
+1702630492 z:\jk\programowanie obiektowe\lab11\p11\choinka.h
+	"ozdoba.h"
+	<vector>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1705045406 source:z:\jk\programowanie obiektowe\lab12\array.cpp
+	"array.h"
+
+1705046490 z:\jk\programowanie obiektowe\lab12\array.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+

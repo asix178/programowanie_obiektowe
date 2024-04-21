@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704982906 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab2\lab2__cw\cw_wzor.cpp
+	"cw_wzor.h"
+
+1704982680 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab2\lab2__cw\cw_wzor.h
+	<iostream>
+
+1704982794 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab2\lab2__cw\main.cpp
+	"cw_wzor.cpp"
+
+1704983015 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab2\lab2__cw\cw_wzor.cpp
+	"cw_wzor.h"
+

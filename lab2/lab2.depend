@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697181222 source:z:\jk\lab2\lab2\main.cpp
+	"wzor.h"
+
+1697178663 z:\jk\lab2\lab2\wzor.h
+	<iostream>
+
+1697179845 source:z:\jk\lab2\lab2\wzor.cpp
+	"wzor.h"
+
+1697176245 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab2\wzor.cpp
+	"wzor.h"
+
+1697175063 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab2\wzor.h
+	<iostream>
+

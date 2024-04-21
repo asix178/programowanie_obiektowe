@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699001807 source:z:\jk\programowanie obiektowe\lab5\lab5\ciag.cpp
+	"ciag.h"
+	<cstdlib>
+
+1699001799 z:\jk\programowanie obiektowe\lab5\lab5\ciag.h
+	<iostream>
+
+1699001770 source:z:\jk\programowanie obiektowe\lab5\lab5\main.cpp
+	"ciag.h"
+	<ctime>
+	<iostream>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1697787633 source:z:\jk\lab3\main.cpp
+	"planeta.h"
+	<conio.h>
+	<windows.h>
+
+1697787749 z:\jk\lab3\planeta.h
+	"plaszczak.h"
+
+1697787185 z:\jk\lab3\plaszczak.h
+	<iostream>
+
+1698702178 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\lab3-20231020t170243z-001\lab3\main.cpp
+	"planeta.h"
+	<conio.h>
+	<windows.h>
+
+1698699454 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\lab3-20231020t170243z-001\lab3\planeta.h
+	"jablko.h"
+	"plaszczak.h"
+	<stdlib.h>
+	<time.h>
+
+1698696841 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\lab3-20231020t170243z-001\lab3\plaszczak.h
+	<iostream>
+
+1698697883 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\lab3-20231020t170243z-001\lab3\jablko.h
+	<iostream>
+

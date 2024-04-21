@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699606104 source:z:\jk\programowanie obiektowe\lab6\main.cpp
+	<iostream>
+	"container.h"
+
+1699606332 source:z:\jk\programowanie obiektowe\lab6\container.cpp
+	"container.h"
+
+1699605371 z:\jk\programowanie obiektowe\lab6\container.h
+	<iostream>
+
+1699603956 z:\jk\programowanie obiektowe\lab6\container.cpp
+	"container.h"
+

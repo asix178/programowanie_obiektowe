@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706207500 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\ksiazki\main.cpp
+	"czytelnik.h"
+
+1706207697 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\ksiazki\czytelnik.h
+	"ksiazka.h"
+	<vector>
+
+1706197387 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\ksiazki\ksiazka.h
+	<iostream>
+

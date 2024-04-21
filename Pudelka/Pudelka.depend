@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706220942 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\pudelka\main.cpp
+	"pulka.h"
+
+1706220965 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\pudelka\pulka.h
+	"pudelko.h"
+	<vector>
+
+1706220666 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\klk\pudelka\pudelko.h
+	<iostream>
+

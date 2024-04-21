@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1705048616 source:z:\jk\programowanie obiektowe\lab12_2\main.cpp
+	"box.h"
+
+1705049418 z:\jk\programowanie obiektowe\lab12_2\box.h
+	<iostream>
+	<vector>
+
+1705443613 source:c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab12_2\main.cpp
+	"box.h"
+
+1705443613 c:\users\asia\onedrive - uniwersytet £ódzki\pulpit\studia\2 rok\3 sem\programowanie obiektowe\lab12_2\box.h
+	<iostream>
+	<vector>
+

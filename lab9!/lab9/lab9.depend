@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701420276 source:z:\jk\programowanie obiektowe\lab9!\lab9\main.cpp
+	"plansza.h"
+
+1701420246 z:\jk\programowanie obiektowe\lab9!\lab9\plansza.h
+	"Obiekt.h"
+
+1701420317 z:\jk\programowanie obiektowe\lab9!\lab9\obiekt.h
+	<iostream>
+

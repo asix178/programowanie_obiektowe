@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700813440 source:z:\jk\programowanie obiektowe\lab8\main.cpp
+	"zwierze.h"
+	<cstdlib>
+	<ctime>
+
+1700813456 z:\jk\programowanie obiektowe\lab8\zwierze.h
+	<iostream>
+
